@@ -44,7 +44,7 @@ After entering the reqiured variables, the script will do its work.
 
 ## Automatic Updater For oub / oub-remix 
 
-![logo](https://telegra.ph/Linux-10-12.jpg)
+![logo](https://telegra.ph/Linux-10-12)
 
 ## STEPS
 
